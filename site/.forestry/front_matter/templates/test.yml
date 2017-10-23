@@ -1,0 +1,9 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: my_text_field
+  label: my text field
+- type: textarea
+  name: my_text_area
+  label: my text area
